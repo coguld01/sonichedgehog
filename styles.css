@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(132, 168, 234);
+}
+.instructions { 
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.changeme {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.hintsimg {
+    position: relative;
+    left: 750px;
+}
+.sonic {
+    position: relative;
+    bottom: 900px;
+    left: 900px;
+}
